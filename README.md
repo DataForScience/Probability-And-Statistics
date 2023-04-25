@@ -8,13 +8,13 @@
 [![Visualization For Science](https://img.shields.io/badge/Viz_For_Science-Subscribe-blue)](https://viz4sci.substack.com/subscribe)
 [![Sunday Briefing](https://img.shields.io/badge/Sunday_Briefing-Subscribe-blue)](https://data4sci.ck.page/8a51c452bc)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/Probability/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/Probability-And-Statistics/HEAD)
 
 # Probability And Statistics For Everyone
 
 ### Code and slides to accompany the online series of webinars: https://data4sci.com/probability-and-statistics by Data For Science.
 
-### Run the code in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/Probability-And-Statistics/master)
+### Run the code in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/Probability-And-Statistics/HEAD)
 
 Probability and Statistics are the bedrock on which the most recent advances in machine learning and Artificial Intelligence have been built. A deep and intuitive understanding of Probability Theory and Statistics and how to apply them to each specific situation is a fundamental requirement for any successful Data Science and Machine Learning project.
 
