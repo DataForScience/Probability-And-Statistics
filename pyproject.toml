@@ -1,0 +1,17 @@
+[project]
+name = "probability-and-statistics"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.7.5",
+    "networkx>=3.1",
+    "numpy>=1.24.4",
+    "pandas>=2.0.3",
+    "scikit-learn>=1.3.2",
+    "scipy>=1.10.1",
+    "seaborn>=0.13.2",
+    "watermark>=2.6.0",
+]
